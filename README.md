@@ -47,7 +47,7 @@ I'm interested in building reliable, high-performance software and understanding
 ## Beyond Engineering
 
 - ACM SIGAIDA @ UIUC
-- HackIllinois 2025 — Fan Favorite
+- HackIllinois 2025 — 1st Place
 - HERE Geospatial Hackathon 2026 — 2nd Place
 
 ## Connect With Me
